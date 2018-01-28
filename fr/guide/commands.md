@@ -107,7 +107,7 @@ Donc pour un déploiement en mode SPA, vous devez :
 - Lancez `npm run build`.
 - Déployez le dossier `dist/` créé sur votre hébergement statique comme Surge, GitHub Pages ou nginx.
 
-Une autre possibilité de déploiement est que nous pouvons utiliser Nuxt comme un middleware dans des frameworks si le mode est `spa`. Ceci aide à réduire le temps de chargement et à utiliser Nuxt dans des projets ou le SSR n'est pas possible.
+Une autre possibilité de déploiement est que nous pouvons utiliser Nuxt comme un middleware dans des frameworks si le mode est `spa`. Ceci aide à réduire le temps de chargement et à utiliser Nuxt dans des projets où le SSR n'est pas possible.
 
 <div class="Alert">Consultez [Comment déployer sur Heroku ?](/faq/heroku-deployment) pour un exemple de déploiement sur des hébergements populaires.</div>
 
